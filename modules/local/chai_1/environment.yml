@@ -5,7 +5,8 @@ channels:
 dependencies:
   - gcc_linux-64=14.1.0
   - python=3.12
-  - cuda=12.1
+  - cuda=12.9.1
+  - cuda-toolkit=12.9.1
   - pip
   - pip:
       - chai_lab==0.4.2
